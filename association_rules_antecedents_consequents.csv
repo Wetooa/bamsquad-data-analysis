@@ -1,0 +1,183 @@
+antecedents,consequents,lift
+frozenset({'RAYE'}),frozenset({'070 Shake'}),476.5
+frozenset({'070 Shake'}),frozenset({'RAYE'}),476.5
+frozenset({'Arcane'}),frozenset({'League of Legends'}),476.5
+frozenset({'League of Legends'}),frozenset({'Arcane'}),476.5
+frozenset({'Silk Sonic'}),frozenset({'Anderson .Paak'}),476.5
+frozenset({'Anderson .Paak'}),frozenset({'Silk Sonic'}),476.5
+frozenset({'Big One'}),frozenset({'FMK'}),476.5
+frozenset({'FMK'}),frozenset({'Big One'}),476.5
+frozenset({'DJ Luian'}),frozenset({'Mambo Kingz'}),476.5
+frozenset({'Mambo Kingz'}),frozenset({'DJ Luian'}),476.5
+frozenset({'Shekhar Ravjiani'}),"frozenset({'Vishal-Shekhar', 'Kumaar'})",476.5
+"frozenset({'Vishal Dadlani', 'Kumaar'})",frozenset({'Shekhar Ravjiani'}),476.5
+frozenset({'Vishal Dadlani'}),"frozenset({'Shekhar Ravjiani', 'Kumaar'})",476.5
+frozenset({'Shekhar Ravjiani'}),"frozenset({'Vishal Dadlani', 'Kumaar'})",476.5
+frozenset({'Kumaar'}),"frozenset({'Shekhar Ravjiani', 'Vishal-Shekhar'})",476.5
+frozenset({'Vishal-Shekhar'}),"frozenset({'Shekhar Ravjiani', 'Kumaar'})",476.5
+frozenset({'Kumaar'}),"frozenset({'Vishal Dadlani', 'Vishal-Shekhar'})",476.5
+frozenset({'Vishal Dadlani'}),"frozenset({'Vishal-Shekhar', 'Kumaar'})",476.5
+frozenset({'Vishal-Shekhar'}),"frozenset({'Vishal Dadlani', 'Kumaar'})",476.5
+"frozenset({'Vishal Dadlani', 'Kumaar'})",frozenset({'Vishal-Shekhar'}),476.5
+"frozenset({'Vishal-Shekhar', 'Kumaar'})",frozenset({'Vishal Dadlani'}),476.5
+"frozenset({'Vishal Dadlani', 'Vishal-Shekhar'})",frozenset({'Kumaar'}),476.5
+"frozenset({'Vishal-Shekhar', 'Kumaar'})","frozenset({'Vishal Dadlani', 'Shekhar Ravjiani'})",476.5
+"frozenset({'Vishal Dadlani', 'Shekhar Ravjiani'})","frozenset({'Vishal-Shekhar', 'Kumaar'})",476.5
+"frozenset({'Vishal Dadlani', 'Kumaar'})","frozenset({'Shekhar Ravjiani', 'Vishal-Shekhar'})",476.5
+"frozenset({'Shekhar Ravjiani', 'Kumaar'})","frozenset({'Vishal Dadlani', 'Vishal-Shekhar'})",476.5
+"frozenset({'Shekhar Ravjiani', 'Vishal-Shekhar', 'Kumaar'})",frozenset({'Vishal Dadlani'}),476.5
+"frozenset({'Vishal Dadlani', 'Shekhar Ravjiani', 'Kumaar'})",frozenset({'Vishal-Shekhar'}),476.5
+"frozenset({'Tiago pzk', 'Maria Becerra'})",frozenset({'Lit Killah'}),476.5
+frozenset({'Lit Killah'}),"frozenset({'Tiago pzk', 'Maria Becerra'})",476.5
+frozenset({'Vishal Dadlani'}),"frozenset({'Shekhar Ravjiani', 'Vishal-Shekhar'})",476.5
+"frozenset({'Shekhar Ravjiani', 'Vishal-Shekhar'})",frozenset({'Vishal Dadlani'}),476.5
+"frozenset({'Vishal Dadlani', 'Vishal-Shekhar'})",frozenset({'Shekhar Ravjiani'}),476.5
+"frozenset({'Vishal Dadlani', 'Shekhar Ravjiani'})",frozenset({'Vishal-Shekhar'}),476.5
+"frozenset({'Vishal Dadlani', 'Vishal-Shekhar', 'Kumaar'})",frozenset({'Shekhar Ravjiani'}),476.5
+"frozenset({'Vishal Dadlani', 'Shekhar Ravjiani', 'Vishal-Shekhar'})",frozenset({'Kumaar'}),476.5
+frozenset({'Vishal-Shekhar'}),"frozenset({'Vishal Dadlani', 'Shekhar Ravjiani'})",476.5
+frozenset({'Shekhar Ravjiani'}),"frozenset({'Vishal Dadlani', 'Vishal-Shekhar'})",476.5
+frozenset({'Vishal-Shekhar'}),"frozenset({'Vishal Dadlani', 'Shekhar Ravjiani', 'Kumaar'})",476.5
+frozenset({'Vishal Dadlani'}),"frozenset({'Shekhar Ravjiani', 'Vishal-Shekhar', 'Kumaar'})",476.5
+frozenset({'Shekhar Ravjiani'}),frozenset({'Kumaar'}),476.5
+frozenset({'Kumaar'}),frozenset({'Shekhar Ravjiani'}),476.5
+frozenset({'Justin Quiles'}),frozenset({'Lenny Tav��rez'}),476.5
+frozenset({'Lenny Tav��rez'}),frozenset({'Justin Quiles'}),476.5
+frozenset({'Vishal-Shekhar'}),frozenset({'Kumaar'}),476.5
+frozenset({'Kumaar'}),frozenset({'Vishal-Shekhar'}),476.5
+frozenset({'Vishal-Shekhar'}),frozenset({'Shekhar Ravjiani'}),476.5
+frozenset({'Shekhar Ravjiani'}),frozenset({'Vishal-Shekhar'}),476.5
+frozenset({'Shekhar Ravjiani'}),frozenset({'Vishal Dadlani'}),476.5
+frozenset({'Vishal Dadlani'}),frozenset({'Shekhar Ravjiani'}),476.5
+frozenset({'Vishal Dadlani'}),frozenset({'Kumaar'}),476.5
+frozenset({'Kumaar'}),frozenset({'Vishal Dadlani'}),476.5
+frozenset({'Peso P'}),frozenset({'Jasiel Nu��ez'}),476.5
+frozenset({'Jasiel Nu��ez'}),frozenset({'Peso P'}),476.5
+"frozenset({'Vishal Dadlani', 'Vishal-Shekhar'})","frozenset({'Shekhar Ravjiani', 'Kumaar'})",476.5
+"frozenset({'Shekhar Ravjiani', 'Vishal-Shekhar'})","frozenset({'Vishal Dadlani', 'Kumaar'})",476.5
+frozenset({'Shekhar Ravjiani'}),"frozenset({'Vishal Dadlani', 'Vishal-Shekhar', 'Kumaar'})",476.5
+frozenset({'Kumaar'}),"frozenset({'Vishal Dadlani', 'Shekhar Ravjiani', 'Vishal-Shekhar'})",476.5
+"frozenset({'Shekhar Ravjiani', 'Kumaar'})",frozenset({'Vishal Dadlani'}),476.5
+frozenset({'Mambo Kingz'}),"frozenset({'Anuel Aa', 'DJ Luian'})",476.5
+frozenset({'DJ Luian'}),"frozenset({'Mambo Kingz', 'Anuel Aa'})",476.5
+"frozenset({'Arcane', 'Imagine Dragons'})",frozenset({'League of Legends'}),476.5
+"frozenset({'Mambo Kingz', 'Anuel Aa'})",frozenset({'DJ Luian'}),476.5
+"frozenset({'Anuel Aa', 'DJ Luian'})",frozenset({'Mambo Kingz'}),476.5
+frozenset({'Silk Sonic'}),"frozenset({'Anderson .Paak', 'Bruno Mars'})",476.5
+frozenset({'Anderson .Paak'}),"frozenset({'Silk Sonic', 'Bruno Mars'})",476.5
+"frozenset({'Vishal-Shekhar', 'Kumaar'})",frozenset({'Shekhar Ravjiani'}),476.5
+"frozenset({'Shekhar Ravjiani', 'Vishal-Shekhar'})",frozenset({'Kumaar'}),476.5
+frozenset({'Kumaar'}),"frozenset({'Vishal Dadlani', 'Shekhar Ravjiani'})",476.5
+"frozenset({'Shekhar Ravjiani', 'Kumaar'})",frozenset({'Vishal-Shekhar'}),476.5
+"frozenset({'League of Legends', 'Imagine Dragons'})",frozenset({'Arcane'}),476.5
+frozenset({'Arcane'}),"frozenset({'League of Legends', 'Imagine Dragons'})",476.5
+frozenset({'League of Legends'}),"frozenset({'Arcane', 'Imagine Dragons'})",476.5
+"frozenset({'Vishal Dadlani', 'Shekhar Ravjiani'})",frozenset({'Kumaar'}),476.5
+"frozenset({'Anderson .Paak', 'Bruno Mars'})",frozenset({'Silk Sonic'}),476.5
+"frozenset({'Silk Sonic', 'Bruno Mars'})",frozenset({'Anderson .Paak'}),476.5
+frozenset({'Vishal-Shekhar'}),frozenset({'Vishal Dadlani'}),476.5
+frozenset({'Vishal Dadlani'}),frozenset({'Vishal-Shekhar'}),476.5
+frozenset({'Encanto - Cast'}),frozenset({'Stephanie Beatriz'}),317.6666666666667
+frozenset({'Diane Guerrero'}),frozenset({'Stephanie Beatriz'}),317.6666666666667
+frozenset({'Stephanie Beatriz'}),frozenset({'Diane Guerrero'}),317.66666666666663
+frozenset({'Stephanie Beatriz'}),frozenset({'Encanto - Cast'}),317.66666666666663
+frozenset({'Pailita'}),frozenset({'Polima WestCoast'}),211.77777777777777
+frozenset({'Polima WestCoast'}),frozenset({'Pailita'}),211.77777777777777
+"frozenset({'Tiago pzk', 'Lit Killah'})",frozenset({'Maria Becerra'}),190.60000000000002
+"frozenset({'Lit Killah', 'Maria Becerra'})",frozenset({'Tiago pzk'}),190.60000000000002
+frozenset({'Mambo Kingz'}),frozenset({'Anuel Aa'}),190.60000000000002
+frozenset({'Arcane'}),frozenset({'Imagine Dragons'}),190.60000000000002
+"frozenset({'Arcane', 'League of Legends'})",frozenset({'Imagine Dragons'}),190.60000000000002
+frozenset({'League of Legends'}),frozenset({'Imagine Dragons'}),190.60000000000002
+frozenset({'Lit Killah'}),frozenset({'Tiago pzk'}),190.60000000000002
+frozenset({'Lit Killah'}),frozenset({'Maria Becerra'}),190.60000000000002
+"frozenset({'Mambo Kingz', 'DJ Luian'})",frozenset({'Anuel Aa'}),190.60000000000002
+frozenset({'DJ Luian'}),frozenset({'Anuel Aa'}),190.60000000000002
+frozenset({'Maria Becerra'}),frozenset({'Lit Killah'}),190.6
+frozenset({'Tiago pzk'}),frozenset({'Lit Killah'}),190.6
+frozenset({'Imagine Dragons'}),"frozenset({'Arcane', 'League of Legends'})",190.6
+frozenset({'Anuel Aa'}),"frozenset({'Mambo Kingz', 'DJ Luian'})",190.6
+frozenset({'Anuel Aa'}),frozenset({'DJ Luian'}),190.6
+frozenset({'Anuel Aa'}),frozenset({'Mambo Kingz'}),190.6
+frozenset({'Imagine Dragons'}),frozenset({'Arcane'}),190.6
+frozenset({'Imagine Dragons'}),frozenset({'League of Legends'}),190.6
+frozenset({'Maria Becerra'}),"frozenset({'Tiago pzk', 'Lit Killah'})",190.6
+frozenset({'Tiago pzk'}),"frozenset({'Lit Killah', 'Maria Becerra'})",190.6
+frozenset({'Arijit Singh'}),frozenset({'Sachin-Jigar'}),158.83333333333334
+frozenset({'Silk Sonic'}),frozenset({'Bruno Mars'}),158.83333333333334
+"frozenset({'Silk Sonic', 'Anderson .Paak'})",frozenset({'Bruno Mars'}),158.83333333333334
+frozenset({'Anderson .Paak'}),frozenset({'Bruno Mars'}),158.83333333333334
+frozenset({'Bruno Mars'}),frozenset({'Anderson .Paak'}),158.83333333333331
+frozenset({'Bruno Mars'}),"frozenset({'Silk Sonic', 'Anderson .Paak'})",158.83333333333331
+frozenset({'Sachin-Jigar'}),frozenset({'Arijit Singh'}),158.83333333333331
+frozenset({'Bruno Mars'}),frozenset({'Silk Sonic'}),158.83333333333331
+frozenset({'Dr. Dre'}),frozenset({'Snoop Dogg'}),127.06666666666668
+frozenset({'Snoop Dogg'}),frozenset({'Dr. Dre'}),127.06666666666666
+frozenset({'Mora'}),frozenset({'Sech'}),119.125
+frozenset({'Sech'}),frozenset({'Mora'}),119.125
+frozenset({'Jhay Cortez'}),frozenset({'Anuel Aa'}),95.30000000000001
+frozenset({'Anuel Aa'}),frozenset({'Jhay Cortez'}),95.3
+frozenset({'Ice Spice'}),frozenset({'Nicki Minaj'}),79.41666666666667
+frozenset({'Nicki Minaj'}),frozenset({'Ice Spice'}),79.41666666666666
+frozenset({'Maria Becerra'}),frozenset({'Tiago pzk'}),76.24000000000001
+frozenset({'Tiago pzk'}),frozenset({'Maria Becerra'}),76.24000000000001
+frozenset({'Gabito Ballesteros'}),frozenset({'Peso Pluma'}),59.5625
+frozenset({'Peso Pluma'}),frozenset({'Gabito Ballesteros'}),59.5625
+frozenset({'Justin Bieber'}),frozenset({'Don Toliver'}),54.45714285714287
+frozenset({'Don Toliver'}),frozenset({'Justin Bieber'}),54.45714285714286
+frozenset({'Lil Baby'}),frozenset({'Nicki Minaj'}),52.94444444444444
+frozenset({'Nicki Minaj'}),frozenset({'Lil Baby'}),52.94444444444444
+frozenset({'Young Thug'}),frozenset({'Future'}),47.650000000000006
+frozenset({'Future'}),frozenset({'Young Thug'}),47.65
+frozenset({'Metro Boomin'}),frozenset({'Swae Lee'}),45.38095238095239
+frozenset({'Feid'}),frozenset({'Yandel'}),45.38095238095238
+frozenset({'Swae Lee'}),frozenset({'Metro Boomin'}),45.38095238095238
+frozenset({'Yandel'}),frozenset({'Feid'}),45.38095238095238
+frozenset({'Eminem'}),frozenset({'Dr. Dre'}),42.355555555555554
+frozenset({'Dr. Dre'}),frozenset({'Eminem'}),42.355555555555554
+frozenset({'Kendrick Lamar'}),frozenset({'Baby Keem'}),41.434782608695656
+frozenset({'Baby Keem'}),frozenset({'Kendrick Lamar'}),41.434782608695656
+frozenset({'Don Toliver'}),frozenset({'Future'}),38.120000000000005
+frozenset({'Future'}),frozenset({'Don Toliver'}),38.120000000000005
+frozenset({'21 Savage'}),frozenset({'Drake'}),35.82706766917293
+frozenset({'Drake'}),frozenset({'21 Savage'}),35.82706766917293
+frozenset({'Dua Lipa'}),frozenset({'Calvin Harris'}),35.29629629629629
+frozenset({'Calvin Harris'}),frozenset({'Dua Lipa'}),35.29629629629629
+frozenset({'Metro Boomin'}),frozenset({'Travis Scott'}),34.035714285714285
+frozenset({'Travis Scott'}),frozenset({'Metro Boomin'}),34.035714285714285
+frozenset({'Peso Pluma'}),frozenset({'Natanael Cano'}),29.78125
+frozenset({'Natanael Cano'}),frozenset({'Peso Pluma'}),29.78125
+frozenset({'BTS'}),frozenset({'Jung Kook'}),29.323076923076925
+frozenset({'Jung Kook'}),frozenset({'BTS'}),29.323076923076922
+frozenset({'Metro Boomin'}),frozenset({'Don Toliver'}),27.228571428571435
+frozenset({'Don Toliver'}),frozenset({'Metro Boomin'}),27.22857142857143
+frozenset({'Gesaffelstein'}),frozenset({'The Weeknd'}),25.756756756756758
+frozenset({'The Weeknd'}),frozenset({'Gesaffelstein'}),25.756756756756758
+frozenset({'Junior H'}),frozenset({'Peso Pluma'}),25.526785714285715
+frozenset({'Peso Pluma'}),frozenset({'Junior H'}),25.526785714285715
+frozenset({'Tainy'}),frozenset({'Bad Bunny'}),23.825000000000003
+frozenset({'Bad Bunny'}),frozenset({'Tainy'}),23.825000000000003
+frozenset({'21 Savage'}),frozenset({'Travis Scott'}),22.690476190476193
+frozenset({'Travis Scott'}),frozenset({'21 Savage'}),22.69047619047619
+frozenset({'Mora'}),frozenset({'Feid'}),22.69047619047619
+frozenset({'Feid'}),frozenset({'Mora'}),22.69047619047619
+frozenset({'Future'}),frozenset({'Metro Boomin'}),20.421428571428574
+frozenset({'Metro Boomin'}),frozenset({'Future'}),20.421428571428574
+frozenset({'Drake'}),frozenset({'Travis Scott'}),16.719298245614034
+frozenset({'Travis Scott'}),frozenset({'Drake'}),16.719298245614034
+frozenset({'Bizarrap'}),frozenset({'Rauw Alejandro'}),15.883333333333335
+frozenset({'Rauw Alejandro'}),frozenset({'Bizarrap'}),15.883333333333333
+frozenset({'The Weeknd'}),frozenset({'Ariana Grande'}),12.878378378378379
+frozenset({'Ariana Grande'}),frozenset({'The Weeknd'}),12.878378378378379
+frozenset({'Daddy Yankee'}),frozenset({'Bad Bunny'}),11.912500000000001
+frozenset({'J Balvin'}),frozenset({'Bad Bunny'}),11.912500000000001
+frozenset({'Jhay Cortez'}),frozenset({'Bad Bunny'}),11.912500000000001
+frozenset({'Bad Bunny'}),frozenset({'Jhay Cortez'}),11.9125
+frozenset({'Bad Bunny'}),frozenset({'J Balvin'}),11.9125
+frozenset({'Bad Bunny'}),frozenset({'Daddy Yankee'}),11.9125
+frozenset({'Future'}),frozenset({'Drake'}),10.031578947368422
+frozenset({'Drake'}),frozenset({'Future'}),10.031578947368422
+frozenset({'21 Savage'}),frozenset({'Metro Boomin'}),9.72448979591837
+frozenset({'Metro Boomin'}),frozenset({'21 Savage'}),9.72448979591837
+frozenset({'Taylor Swift'}),frozenset({'Lana Del Rey'}),8.359649122807017
+frozenset({'Lana Del Rey'}),frozenset({'Taylor Swift'}),8.359649122807017
